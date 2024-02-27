@@ -14,7 +14,7 @@ I love to conjure up amazing and useful applications, using a variety of spells 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/iberezhnyi/iberezhnyi/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/iberezhnyi/iberezhnyi/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" width="800" src="https://raw.githubusercontent.com/iberezhnyi/iberezhnyi/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" width="700" src="https://raw.githubusercontent.com/iberezhnyi/iberezhnyi/output/github-contribution-grid-snake.svg">
 </picture>
 </p>
 
