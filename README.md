@@ -10,6 +10,12 @@ I love to conjure up amazing and useful applications, using a variety of spells 
 - 💬 Ask me anything about coding, I'll be glad to share my wisdom and experience
 - 📫 Contact me by owl: <strong><a href="mailto:iberezhnyi@gmail.com">iberezhnyi@gmail.com</a></strong> or by <strong><a href="https://t.me/iberezhnyi">Telegram</a></strong>
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+</picture>
+
 <!--
 ### Hi there 👋
 
