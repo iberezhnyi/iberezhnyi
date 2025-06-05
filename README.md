@@ -2,13 +2,15 @@
 
 I love to conjure up amazing and useful applications, using a variety of spells and potions (also known as technologies and programming languages).
 
-- ⚡ Fun fact:
+#### ⚡ Fun fact:
+
 - 🌱 I'm brewing a powerful potion with NestJS and MongoDB while learning their deepest secrets to cast backend spells
 - 👯 I want to join forces with other code wizards who share my passion for coding and learning
 - 🤔 I'm looking for guidance on the mysteries of the Universe
 - 💬 Ask me anything about coding, I'll be glad to share my wisdom and experience
-- 📫 Contact me by owl: <strong><a href="mailto:iberezhnyi@gmail.com">iberezhnyi@gmail.com</a></strong> or by <strong><a href="https://t.me/iberezhnyi">Telegram</a></strong>
+- 📫 Contact me by owl: <strong><a href="mailto:iberezhnyi@gmail.com">iberezhnyi@gmail.com</a></strong> or by <strong><a href="https://t.me/iberezhnyi" target="_blank">Telegram</a></strong>
 - 🌐 Check out my portfolio: <strong><a href="https://iberezhnyi.vercel.app" target="_blank">iberezhnyi.vercel.app</a></strong>
+- 🛠️ Find me also on <strong><a href="https://gitlab.com/ihor.berezh" target="_blank">GitLab</a></strong>
 
 <p align="center">
 <picture>
