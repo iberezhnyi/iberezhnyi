@@ -1,16 +1,19 @@
-### Greetings, fellow coders! I'm Ihor, a code wizard from Kyiv 🧙‍♂️
+### Greetings, fellow coders! I'm Ihor, a Full-Stack Developer from Kyiv 🧙‍♂️
 
-I love to conjure up amazing and useful applications, using a variety of spells and potions (also known as technologies and programming languages).
+I build web applications, backend services, and developer tooling with TypeScript and modern JavaScript technologies.
 
 #### ⚡ Fun fact:
 
-- 🌱 I'm brewing a powerful potion with NestJS and MongoDB while learning their deepest secrets to cast backend spells
-- 👯 I want to join forces with other code wizards who share my passion for coding and learning
-- 🤔 I'm looking for guidance on the mysteries of the Universe
-- 💬 Ask me anything about coding, I'll be glad to share my wisdom and experience
+- 🧙‍♂️ Building and maintaining full-stack applications and internal developer tools
+- 🏗️ Working with TypeScript-based monorepos and shared packages
+- ⚙️ Automating development workflows with GitLab CI/CD and Git
+- 🐛 Enjoy investigating tricky bugs and solving problems across application code and infrastructure
+- 🤝 I enjoy collaborating with other developers and learning from real-world engineering challenges
+- 🤖 Exploring AI-powered development and LLM-based tools
+- 💬 Feel free to reach out about coding, projects, or technology
 - 📫 Contact me by owl: <strong><a href="mailto:iberezhnyi@gmail.com">iberezhnyi@gmail.com</a></strong> or by <strong><a href="https://t.me/iberezhnyi" target="_blank">Telegram</a></strong>
 - 🌐 Check out my portfolio: <strong><a href="https://iberezhnyi.vercel.app" target="_blank">iberezhnyi.vercel.app</a></strong>
-- 🛠️ Find me also on <strong><a href="https://gitlab.com/ihor.berezh" target="_blank">GitLab</a></strong>
+- 🐙 Find me also on <strong><a href="https://gitlab.com/ihor.berezh" target="_blank">GitLab</a></strong>
 
 <p align="center">
 <picture>
@@ -18,9 +21,4 @@ I love to conjure up amazing and useful applications, using a variety of spells 
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/iberezhnyi/iberezhnyi/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" width="700" src="https://raw.githubusercontent.com/iberezhnyi/iberezhnyi/output/github-contribution-grid-snake.svg">
 </picture>
-</p>
-
-<p align="center"> 
-  Visitors count:<br>
-  <img src="https://profile-counter.glitch.me/iberezhnyi/count.svg" />
 </p>
