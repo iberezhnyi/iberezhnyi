@@ -13,7 +13,7 @@ I build web applications, backend services, and developer tooling with TypeScrip
 - 💬 Feel free to reach out about coding, projects, or technology
 - 📫 Contact me by owl: <strong><a href="mailto:iberezhnyi@gmail.com">iberezhnyi@gmail.com</a></strong> or by <strong><a href="https://t.me/iberezhnyi" target="_blank">Telegram</a></strong>
 - 🌐 Check out my portfolio: <strong><a href="https://iberezhnyi.vercel.app" target="_blank">iberezhnyi.vercel.app</a></strong>
-- 🐙 Find me also on <strong><a href="https://gitlab.com/ihor.berezh" target="_blank">GitLab</a></strong>
+- 🐙 Find me also on GitLab: <strong><a href="https://gitlab.com/iberezhnyi" target="_blank">iberezhnyi</a></strong>, <strong><a href="https://gitlab.com/ihor.berezh" target="_blank">ihor.berezh</a></strong>
 
 <p align="center">
 <picture>
